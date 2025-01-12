@@ -1,0 +1,12 @@
+E:\Proyectos\VS2019C\DBViewer\DBReader\bin\Debug\DBReader.exe.config
+E:\Proyectos\VS2019C\DBViewer\DBReader\bin\Debug\DBReader.exe
+E:\Proyectos\VS2019C\DBViewer\DBReader\bin\Debug\DBReader.pdb
+E:\Proyectos\VS2019C\DBViewer\DBReader\bin\Debug\FontAwesome.Sharp.dll
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.csproj.AssemblyReference.cache
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.MainForm.resources
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.Properties.Resources.resources
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.csproj.GenerateResource.cache
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.csproj.CoreCompileInputs.cache
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.csproj.CopyComplete
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.exe
+E:\Proyectos\VS2019C\DBViewer\DBReader\obj\Debug\DBReader.pdb
